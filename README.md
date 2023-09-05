@@ -1,4 +1,7 @@
 # IAnutricao
+##### Integrantes
+Nome: Daniel Tsuyoshi Yamamoto RM: 95344
+Nome: Lucas Sabonaro Gonzalez RM: 95518
 
 ### Problema a ser resolvido: 
 A nutrição é uma área crucial para a saúde, pois uma alimentação adequada pode prevenir diversas doenças e melhorar a qualidade de vida. No entanto, o avanço tecnológico também trouxe problemas para a nutrição, como o fácil acesso a alimentos ultraprocessados e a adoção de uma dieta rápida e pouco saudável. Além disso, as informações nutricionais conflitantes na internet podem confundir as pessoas e levá-las a seguir modismos alimentares sem a orientação adequada. 
@@ -23,3 +26,4 @@ Planos de Treino: Os usuários podem criar e gerenciar planos de treino personal
 Autenticação e Autorização: O sistema oferece autenticação segura para proteger as contas dos usuários. Além disso, as autorizações são configuradas para limitar o acesso a recursos específicos com base nas funções dos usuários.
 
 Tokens de Autenticação: O sistema gera e valida tokens JWT (JSON Web Tokens) para autenticar os usuários. Isso garante a segurança das comunicações entre o cliente e o servidor.
+
